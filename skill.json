@@ -1,0 +1,12 @@
+{
+  "name": "openclaw-genpark-sub-killer",
+  "version": "1.0.0",
+  "description": "Autonomous recurring subscription auditor detecting dormant SaaS charges, duplicate tiers, and annual contract burn",
+  "author": "GenPark AI Engineering",
+  "license": "MIT",
+  "keywords": ["subscription-killer", "saas-audit", "recurring-billing", "cost-optimization", "mcp", "agent-skills"],
+  "mcp": {
+    "supported": true,
+    "entrypoint": "mcp_server.py"
+  }
+}
